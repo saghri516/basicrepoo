@@ -1,2 +1,3 @@
 # basicrepoo
-this is my first git repositry
+This is my program
+
